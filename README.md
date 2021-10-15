@@ -1,4 +1,4 @@
-# test_app
+# Quiz App
 
 A short simple quiz app, that takes a few questions and gives you remarks based on what you score.
 
