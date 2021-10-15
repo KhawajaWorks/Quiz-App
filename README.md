@@ -1,6 +1,6 @@
 # test_app
 
-A new Flutter project.
+A short simple quiz app, that takes a few questions and gives you remarks based on what you score.
 
 ## Getting Started
 
